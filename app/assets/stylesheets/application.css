@@ -44,6 +44,10 @@ label {
   display: block;
 }
 
+a {
+  color: #666;
+}
+
 .field, .action, .actions {
   margin-bottom: 10px;
 }
