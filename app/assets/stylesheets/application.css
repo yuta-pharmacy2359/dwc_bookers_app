@@ -48,6 +48,12 @@ a {
   color: #666;
 }
 
+a:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
 .field, .action, .actions {
   margin-bottom: 10px;
 }
